@@ -20,7 +20,7 @@ The aim of this project is to build the  functionality to send a set of instruct
 - You should make a way for the remote machines to subscribe to your master controller.
 - You should be able to target individual machines aswell as multiple machines
 - You should be able to send a shell script to the BotNet and it should run it.
-- Machines should be able to be removed from the BotNet.
+- Machines should be able to be removed from and added to the BotNet.
 
 ## Bonus Features
 
