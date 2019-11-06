@@ -1,10 +1,10 @@
 # Custom Query Engine
 
+> The important part of this project is to gradually build up functionality! Break it up into small tasks.
+
 ## Brief
 
 The aim of this project is to build the functionality to translate your own custom query language into actions that your program will handle.
-
-> The important part of this project is to gradually build up functionality! Break it up into small tasks.
 
 ## Example
 
