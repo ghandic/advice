@@ -28,6 +28,8 @@ This repository hosts a heap of ideas and links to resources for aspiring develo
 - [Build your own static website and serve it on S3](Ideas/StaticWebsite/README.md)
 - [Scrape data from the internet](Ideas/WebScraping/README.md)
 - [Make a game](Ideas/Game/README.md)
+- [Make a Web Browser plugin](Ideas/WebPlugin/README.md)
+- [Build a GUI application](Ideas/GUI/README.md)
 
 ### Machine Learning
 
