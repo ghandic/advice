@@ -1,18 +1,18 @@
 # Project ideas for aspiring developers
 
-This repository hosts a heap of ideas and links to resources for aspiring developers to go through. Most people learn from either doing something themselves or by watching others, thats why building a personal project that you have an interest in is a great way to learn. By learning to build the project you will pick up new skills  along the way.
+This repository hosts a heap of ideas and links to resources for aspiring developers to go through. Most people learn from either doing something themselves or by watching others, thats why building a personal project that you have an interest in is a great way to learn. By learning to build the project you will pick up new skills along the way.
 
 ## Hints and tips
 
-- Think about the user experiance of the project and who it is aimed at.
+- Think about the user experience of the project and who it is aimed at.
 - Consider adding logging to your project to help with debugging.
 - Manage your own environment by using tools such as **virtualenv**, **Docker**, **VM's**.
-- Save yourself the headache of losing work by version controlling  your code with **git**.
-- Make it easy for your future self and others by documenting your code and projects detailing how to run it, the features it does/doesnt have and areas for improvement.
+- Save yourself the headache of losing work by version controlling your code with **git**.
+- Make it easy for your future self and others by documenting your code and projects detailing how to run it, the features it does/doesn't have and areas for improvement.
 - If you have peers/friends that are also developers then ask them to do a code review.
-- Follow a style guide such as [google's style guide for Python](http://google.github.io/styleguide/pyguide.html) and use tools that help you inforce it such as [Black](https://black.readthedocs.io/en/stable/) for Python and a good IDE such as [VS Code](https://code.visualstudio.com/).
+- Follow a style guide such as [google's style guide for Python](http://google.github.io/styleguide/pyguide.html) and use tools that help you enforce it such as [Black](https://black.readthedocs.io/en/stable/) for Python and a good IDE such as [VS Code](https://code.visualstudio.com/).
 - Get into the habit of building testable code and make unit tests as part of your project.
-- Share your projects on GitHub! This will help you with future job oppurtunities and acts as free storage.
+- Share your projects on GitHub! This will help you with future job opportunities and acts as free storage.
 
 ## Ideas
 
@@ -39,11 +39,11 @@ This repository hosts a heap of ideas and links to resources for aspiring develo
 
 ### General
 
-- [Code Wars](https://www.codewars.com/r/9gz_EA) - Enchance your coding skills by tackling some easy/medium/hard/expert coding challenges (kata), learn new languages by translating the kata and build up a repository of useful code snippets.
+- [Code Wars](https://www.codewars.com/r/9gz_EA) - Enhance your coding skills by tackling some easy/medium/hard/expert coding challenges (kata), learn new languages by translating the kata and build up a repository of useful code snippets.
 
 ### Python
 
-- 🌎 [Real Python](https://realpython.com/) - Dan Bader and co will help navigate you through to becoming a Pythonista in no time, Real Python has plenty of advice for all ranges of abilites.
+- 🌎 [Real Python](https://realpython.com/) - Dan Bader and co will help navigate you through to becoming a Pythonista in no time, Real Python has plenty of advice for all ranges of abilities.
 - 🌎 [PyImageSearch](https://www.pyimagesearch.com) - Great for all things image based, including; image processing, classifications, regression, filtering, facial recognition, etc
 - 🌎 [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) - Contains a wealth of links to blogs for tutorials on very specific aspects of using Python.
 
@@ -82,9 +82,9 @@ This repository hosts a heap of ideas and links to resources for aspiring develo
 
 ### HTML/CSS/JS
 
-- 🌎 [W3 Schools](https://www.w3schools.com/) - Absolute classic way to learn the basics of web programming, this can be a little dry so try to combine the learning with a projct you have in mind and follow some video tuts too!
+- 🌎 [W3 Schools](https://www.w3schools.com/) - Absolute classic way to learn the basics of web programming, this can be a little dry so try to combine the learning with a project you have in mind and follow some video tuts too!
 
-- 🎥 [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) - (CSS/HTML) Gary shows you how to build impecibly designed UI's and gives you tips and a great workflow to follow when taking on similar projects.
+- 🎥 [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) - (CSS/HTML) Gary shows you how to build impeccably designed UI's and gives you tips and a great workflow to follow when taking on similar projects.
 - 🎥 [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - (Javascript)
 
 ### Git

@@ -12,13 +12,13 @@
 
 ## Brief
 
-The aim of this project is to build the  functionality to send a set of instructions to multiple machines to do your bidding.
+The aim of this project is to build the functionality to send a set of instructions to multiple machines to do your bidding.
 
 ## Features
 
 - The BotNet should be controlled by your master controller on your host machine.
 - You should make a way for the remote machines to subscribe to your master controller.
-- You should be able to target individual machines aswell as multiple machines
+- You should be able to target individual machines as well as multiple machines
 - You should be able to send a shell script to the BotNet and it should run it.
 - Machines should be able to be removed from and added to the BotNet.
 
